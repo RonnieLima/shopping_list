@@ -1,4 +1,6 @@
-# shopping_list
-# Run in IDLE or a python shell of choice and follow the instructions!
-# This is just a simple project I had worked on to see what I could do with Python just starting out
-# You can create and add items to a list and create a shopping list, or a to-do list
+# Shopping List/To-Do Python App
+# Open in IDLE or Python environment of choice
+# List of Commands are avILble when app starts up
+# Type "HELP" to show Help screen
+# Type "SHOW" to show what has already been added to the list
+# Type "DONE" to exit the app and show completed list
