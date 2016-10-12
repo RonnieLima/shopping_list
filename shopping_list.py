@@ -1,5 +1,10 @@
-__author__ = "Ronnie Lima""
-__copyright__ = "TeamTreehouse"
+"""
+    File name: shopping_list.py
+    Author: Ronnie Lima
+    Date created: 10/11/2016
+    Date last modified: 10/12/2016
+    Python Version: 3.5
+"""
 
 # make a list to hold onto our items
 shopping_list = []
