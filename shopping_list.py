@@ -1,3 +1,6 @@
+__author__ = "Ronnie Lima""
+__copyright__ = "TeamTreehouse"
+
 # make a list to hold onto our items
 shopping_list = []
 
